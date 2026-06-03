@@ -174,4 +174,9 @@ This project demonstrates how SQL, Power BI, and data storytelling can be combin
 
 **Ranjith A R**
 
+📧 [24ranjith2003@gmail.com](24ranjith2003@gmail.com)  
+🌐 [Portfolio](https://ranjith-nayak.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/ranjith-nayak)  
+💻 [GitHub](https://github.com/ranjith-nayak)
+
 Codebasics Resume Project Challenge 2026
